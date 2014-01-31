@@ -1,6 +1,5 @@
 use utf8;
 use strict;
-use rlib "lib";
 use Test::More;
 use Data::Section::Simple qw(get_data_section);
 use Unicode::Normalize qw(NFC NFD);
